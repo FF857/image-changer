@@ -3,7 +3,20 @@
 body {
 
     display: flex;
-
+    justify-content: center;
+    flex-direction: column;
 }
 
+h3 {
+    
+    display: flex;
+}
+
+.botao {
+
+    
+    background-color: grey;
+    border: none;
+    border-radius: 8px;
+}
 
