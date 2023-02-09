@@ -2,7 +2,20 @@
 
 body {
 
-    background: red;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
-teste
+h3 {
+    
+    display: flex;src: ;
+}
+
+.botao {
+
+    backgroundfixed-color: gray;
+    
+    border: none;
+    border-radius: 8px;
+}
