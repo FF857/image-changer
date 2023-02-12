@@ -7,17 +7,18 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="style.css">
-        <title>Document</title>
+        <title>Image Changer</title>
     </head>
 
     <body>
 
-        <h3>Clique para alterar a imagem</h3>
+        <h3>Clique nas setas para alterar a imagem</h3>
         
-        <div id="container">
-            <button><</button>
-            <img src="assets/img1.png">
-            <button>></button>
+
+        <div id="container"">
+            <button onclick="img_changer_add()"><</button>
+            <img src="assets/img1.png" id="img">
+            <button onclick="img_changer_sub()">></button>
         </div>
 
         <script src="script.js"></script>
