@@ -2,7 +2,7 @@
 
 <p>
     Desafio para trabalhar a lógica em JavaScript.
-  <img width= "600" src="assets /Image Changer.gif">
+  <img width= "600" src="assets/image-changer.gif">
 </p>
 
 
